@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Node Backend
 - 🔭 I'm intrested in server side programming and management
-- 📫 How to reach me: [Linkedin Badge](https://www.linkedin.com/in/shravan-singh-489409246/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shravan-singh-489409246/)
 
 <!--
 **shrvn12/shrvn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
