@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Node Backend
+- ✌🏻 knowledge of HTML, CSS, JS, Node, Mongo
 - 🔭 I'm intrested in server side programming and management
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shravan-singh-489409246/)
 
