@@ -54,7 +54,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=shrvn12&count_private=true&show_icons=true"/>
  </p>
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/shrvn12/github-readme-stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrvn&layout=compact"/>
  </p>
  <p align = "center">
  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"/>
