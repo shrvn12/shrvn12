@@ -1,5 +1,9 @@
+
+Hii there <img src="https://media3.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611dd5cf525e479f1e2718147ca413b9892dd2c717e&rid=giphy.gif&ct=s" /> I am Shravan
+
+
 ### Hi there 👋
-- 🌱 I’m currently learning Node Backend
+<!-- - 🌱 I’m currently learning Node Backend
 - ✌🏻 knowledge of HTML, CSS, JS, Node, Mongo
 - 🔭 I'm intrested in server side programming and management
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shravan-singh-489409246/)
@@ -22,7 +26,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 
 <!--
 **shrvn12/shrvn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
