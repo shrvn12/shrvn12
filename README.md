@@ -6,6 +6,12 @@
 <p align="center">
 <img src ="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="60%" />
  </p>
+ 
+ <h1 align="center"> 💡 About me <h1>
+ - 🔭 A creative and Enthusiastic Full stack web developer.
+ - 💻 Intrested in backend, server side programmin and management.
+ - ✌🏻 Currently Learning Node Backend.
+ - 🌱 Open for contribution in frontend as well as backend for building web projects.
 
 
 <!-- ### Hi there 👋 -->
