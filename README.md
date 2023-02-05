@@ -16,7 +16,7 @@
 
  <h1> #️⃣ My Skillset + Toolset </h1>
  
- <h3 align="center">Skills</h3>
+ <h3 align="center"> 🌿 Skills</h3>
  <p align="center">
  
  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40px"/>
@@ -34,6 +34,20 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg"  width="40px"/>
  
  </p>
+ 
+ <h3 align="center"> ⚒️ Tools</h3>
+ 
+ <p align="center">
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"  width="40px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" width="40px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="30px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original-wordmark.svg"  width="40px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" width="40px"/>
+ <img src="https://camo.githubusercontent.com/eba13da5fd3e78ba95338d1ec3855625a1670b9074097df332db0156a76179b7/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f7265706c69742d69636f6e2e737667"  width="40px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original-wordmark.svg"  width="40px"/>
+
+</p>
  
 
 
