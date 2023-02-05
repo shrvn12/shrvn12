@@ -3,9 +3,9 @@
 
 
 <h1 align="center">Full Stack Web Developer</h1>
-<div text-align="center">
+<p align="center">
 <img src ="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" width="60%" />
- </div>
+ </p>
 
 
 <!-- ### Hi there 👋 -->
