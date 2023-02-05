@@ -48,8 +48,11 @@
 
 </p>
 
-<h1 align="center">My Github Stats ![GithubCatGIF](https://user-images.githubusercontent.com/112839752/216841543-86cbd1c1-ec8f-4644-bfe1-77d254806176.gif)
-</h1>
+<h1 align="center">My Github Stats </h1>
+
+<p align = "center">
+ <img src="https://github-readme-stats.vercel.app/api?username=shrvn12&count_private=true&show_icons=true"/>
+</p>
  
 
 
