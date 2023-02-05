@@ -48,7 +48,7 @@
 
 </p>
 
-<h1 align="center">My Github Stats </h1>
+<h1 align="center"> 🕐 My Github Stats</h1>
 
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=shrvn12&count_private=true&show_icons=true"/>
@@ -58,8 +58,11 @@
  </p>
  <p align = "center">
  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"/>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 </p>
+
+<h1 align="center"> ✉️ Let's Connect</h1>
+
+[![LinkedIn Badge]([https://cdn.svgporn.com/logos/linkedin.svg](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg))](https://www.linkedin.com/in/shravan-singh-489409246)
  
 
 
