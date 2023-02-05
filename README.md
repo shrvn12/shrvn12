@@ -19,10 +19,10 @@
  <h3 align="center">Skills</h3>
  <p align="center">
  
- <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="30px"/>
- <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="30px"/>
- <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="30px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" width="30px"/>
+ <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40px"/>
+ <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="40px"/>
+ <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="40px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" width="40px"/>
  
 </p>
 
