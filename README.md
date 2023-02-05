@@ -47,6 +47,9 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original-wordmark.svg"  width="40px"/>
 
 </p>
+
+<h1 align="center">My Github Stats ![GithubCatGIF](https://user-images.githubusercontent.com/112839752/216841543-86cbd1c1-ec8f-4644-bfe1-77d254806176.gif)
+</h1>
  
 
 
