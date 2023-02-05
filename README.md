@@ -14,6 +14,20 @@
  - ✌🏻 Currently Learning Node Backend
  - 🌱 Open for contribution in frontend as well as backend for building web projects
 
+ <h1> #️⃣ My Skillset + Toolset </h1>
+ 
+ <p align="center">
+ 
+ <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="30px"/>
+ <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="30px"/>
+ <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="30px"/>
+ <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="30px"/>
+ <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="30px"/>
+
+ 
+</p>
+ 
+
 
 <!-- ### Hi there 👋 -->
 <!-- - 🌱 I’m currently learning Node Backend
