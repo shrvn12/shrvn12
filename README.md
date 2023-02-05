@@ -62,7 +62,7 @@
 
 <h1 align="center"> ✉️ Let's Connect</h1>
 
-[![LinkedIn Badge]([https://cdn.svgporn.com/logos/linkedin.svg](https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg))](https://www.linkedin.com/in/shravan-singh-489409246)
+[![LinkedIn Badge](https://user-images.githubusercontent.com/112839752/216836857-111df00d-1031-4736-9490-fd1059a9fdfa.svg)](https://www.linkedin.com/in/shravan-singh-489409246)
  
 
 
