@@ -12,7 +12,17 @@
 
 [![Linkedin Badge](https://user-images.githubusercontent.com/112839752/216836857-111df00d-1031-4736-9490-fd1059a9fdfa.svg)](https://www.linkedin.com/in/shravan-singh-489409246/)
 
-[Linkedin Badge](https://www.linkedin.com/in/shravan-singh-489409246/) 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!--
 **shrvn12/shrvn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
