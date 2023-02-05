@@ -5,6 +5,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shravan-singh-489409246/)
 - Portflio : [Portfolio](https://shrvn12.github.io/)
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrvn12&theme=radical)
+- ![GitHub Stats](https://github-readme-calendar.vercel.app/api?username=shrvn12&theme=radical)
 
 <!--
 **shrvn12/shrvn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
