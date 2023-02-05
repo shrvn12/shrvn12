@@ -4,7 +4,10 @@
 - 🔭 I'm intrested in server side programming and management
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shravan-singh-489409246/)
 - Portflio : [Portfolio](https://shrvn12.github.io/)
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrvn12&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrvn12&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/shrvn12/github-readme-stats)
 
 
 [![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/112839752/216836857-111df00d-1031-4736-9490-fd1059a9fdfa.svg)](https://www.linkedin.com/in/shravan-singh-489409246/)
