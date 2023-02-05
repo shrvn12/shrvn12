@@ -4,7 +4,7 @@
 
 <h1 align="center">Full Stack Web Developer</h1>
 
-<img src ="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" align="center" />
+<img src ="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" align="center" width="70%" />
 
 
 <!-- ### Hi there 👋 -->
