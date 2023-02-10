@@ -62,10 +62,10 @@
   <a href="mailto:singhshravan1208@gmail.com">
     <img align="center" alt="email badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/gmail.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/shravan-singh-489409246/" target="_blank">
+  <a href="https://www.linkedin.com/in/shravan-singh-489409246/">
     <img align="center" alt="LinkedIN badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/linkedin.svg" />
   </a>
-  <a href="https://twitter.com/shrvn_12" target="blank">
+  <a href="https://twitter.com/shrvn_12">
     <img align="center" alt="Twitter badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/twitter.svg" />
   </a>
    <a href="https://in.pinterest.com/shrvn12/">
