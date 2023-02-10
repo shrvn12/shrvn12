@@ -19,90 +19,60 @@
  <h3 align="center"> 🌿 Skills</h3>
  <p align="center">
  
- <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40px"/>
- <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="40px"/>
- <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="40px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" width="40px"/>
- 
-</p>
-
-<p align="center">
- 
- <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" width="40px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original-wordmark.svg" width="40px"/>
- <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg"  width="40px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg"  width="40px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/html5-original.svg" width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/css3-plain-wordmark.svg" width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/javascript-original.svg" width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/bootstrap-original-wordmark.svg" width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/nodejs-original-wordmark.svg" width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/express-original-wordmark.svg" width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/mongodb-original-wordmark.svg"  width="70px"/>
  
  </p>
- 
+ <hr/>
  <h3 align="center"> ⚒️ Tools</h3>
  
  <p align="center">
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"  width="40px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" width="40px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="30px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original-wordmark.svg"  width="40px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" width="40px"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/google/google-original-wordmark.svg"  width="40px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/vscode-original-wordmark.svg"  width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/github-original-wordmark.svg" width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/git-original-wordmark.svg" width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/google-original-wordmark.svg"  width="70px"/>
+ <img src="https://raw.githubusercontent.com/shrvn12/shrvn12/680616a6a6684bb1ac964744524f8de550b115f2/resources/skills_tools/npm-original-wordmark.svg" width="70px"/>
 
 </p>
 
-<h1 align="center"> 🕐 My Github Stats</h1>
+<h1> 🕐 My Github Stats</h1>
 
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api?username=shrvn12&count_private=true&show_icons=true"/>
+ <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shrvn12?cardType=github&theme=tokyonight&preferLogin=false" width=60%/>
  </p>
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrvn12&layout=compact"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrvn12&layout=compact" width=60%/>
  </p>
  <p align = "center">
- <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark"/>
+ <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width=60%/>
+</p>
+ <p align = "center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrvn12&theme=github_dark" width=60%/>
 </p>
 
-<!-- <h1 align="center"> ✉️ Let's Connect</h1>
+<h1 align="center"> ✉️ Let's Connect</h1>
 
-[![LinkedIn Badge](https://user-images.githubusercontent.com/112839752/216836857-111df00d-1031-4736-9490-fd1059a9fdfa.svg)](https://www.linkedin.com/in/shravan-singh-489409246) 
- -->
-
-<!-- ### Hi there 👋 -->
-<!-- - 🌱 I’m currently learning Node Backend
-- ✌🏻 knowledge of HTML, CSS, JS, Node, Mongo
-- 🔭 I'm intrested in server side programming and management
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shravan-singh-489409246/)
-- Portflio : [Portfolio](https://shrvn12.github.io/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrvn12&count_private=true&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/shrvn12/github-readme-stats)
-
-
-[![Linkedin Badge](https://user-images.githubusercontent.com/112839752/216836857-111df00d-1031-4736-9490-fd1059a9fdfa.svg)](https://www.linkedin.com/in/shravan-singh-489409246/)
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align = "center">
+  <a href="mailto:singhshravan1208@gmail.com">
+    <img align="center" alt="email badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/gmail.svg" />
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.linkedin.com/in/shravan-singh-489409246/" target="_blank">
+    <img align="center" alt="LinkedIN badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/linkedin.svg" />
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://twitter.com/shrvn_12" target="_blank">
+    <img align="center" alt="Twitter badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/twitter.svg" />
   </a>
-</div> -->
+   <a href="https://in.pinterest.com/shrvn12/">
+    <img align="center" alt="pinterest badge" width="50px" src="https://raw.githubusercontent.com/shrvn12/shrvn12/98affe62fb0c07b91ec5496371e79381ab91cfd2/resources/pinterest.svg" />
+  </a>
+</p>
 
-<!--
-**shrvn12/shrvn12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- ✌🏻Hi there 👋 I am Shravan
-- ✌🏻 
-- 🌱 I’m currently learning Node Backend
-- 🔭 I'm intrested in server programming and management
-- 📫 How to reach me: https://www.linkedin.com/in/shravan-singh-489409246/
-
-YouTube Badge Linkedin Badge Website Badge Website Badge Twitter Badge Website Badge
-
-I'm Full Stack Solution Architect. The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB).
--->
+<!-- I'm Full Stack Solution Architect. The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB). -->
