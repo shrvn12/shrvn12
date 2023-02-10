@@ -13,7 +13,7 @@
  - 💻 Intrested in backend, server side programmin and management
  - ✌🏻 Currently Learning Node Backend
  - 🌱 Open for contribution in frontend as well as backend for building web projects
- - 📃 Have a look at my [Portfolio](https://shrvn12.github.io)
+ - 📃 Have a look at my <a href="https://shrvn12.github.io">Portfolio</a>
 
  <h1> #️⃣ My Skillset + Toolset </h1>
  
