@@ -47,9 +47,9 @@
 <p align = "center">
  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shrvn12?cardType=github&theme=tokyonight&preferLogin=false" width=60%/>
  </p>
-<!-- <p align = "center">
+<p align = "center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrvn12&layout=compact" width=60%/>
- </p> -->
+ </p>
  <p align = "center">
  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width=60%/>
 </p>
