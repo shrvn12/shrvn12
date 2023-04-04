@@ -48,7 +48,7 @@
  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shrvn12?cardType=github&theme=tokyonight&preferLogin=false" width=60%/>
  </p>
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrvn12&layout=compact" width=60%/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=07-Mayankraj&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" width=60%/>
  </p>
  <p align = "center">
  <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" width=60%/>
