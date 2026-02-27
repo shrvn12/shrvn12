@@ -54,12 +54,12 @@ Git • GitHub • VS Code • Firebase • Vercel • Postman • NPM ecosystem
 
 ## Selected Work
 
-### Kings : Real-Time Messaging Platform  
+### <a href="https://kings-messenger.vercel.app/" >Kings</a> : Real-Time Messaging Platform  
 A WebSocket-driven messaging system with sent/delivered/read states, presence tracking (online/away/offline), and secure JWT authentication.
 
 ---
 
-### AT12 : Music Streaming Platform (MEVN)  
+### <a href="https://at12.vercel.app">AT12</a> : Music Streaming Platform (MEVN)  
 A queue-based playback system powered by YouTube APIs with timeline controls, synced lyrics, and structured playback logic.
 
 ---
