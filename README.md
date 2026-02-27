@@ -4,7 +4,7 @@ Full-Stack Developer • Real-Time Systems • Product-Focused Engineering
 </p>
 
 <p align="center">
-building systems that feel simple on the surface and solid underneath. 📍
+Welcome to my profile...📍
 </p>
 
 ---
